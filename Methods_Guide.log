@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.27)  3 MAY 2023 09:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.27)  3 MAY 2023 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,24 +392,24 @@ LaTeX Warning: Label `Fig_Agena_Utility' multiply defined.
 )
 \openout1 = `Methods_Guide.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 155.
-LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 154.
 
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-
 base.sty
@@ -456,7 +456,7 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 155.
+Package hyperref Info: Link coloring OFF on input line 154.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -468,45 +468,45 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count294
 )
-LaTeX Info: Redefining \ref on input line 155.
-LaTeX Info: Redefining \pageref on input line 155.
-LaTeX Info: Redefining \nameref on input line 155.
+LaTeX Info: Redefining \ref on input line 154.
+LaTeX Info: Redefining \pageref on input line 154.
+LaTeX Info: Redefining \nameref on input line 154.
 (./Methods_Guide.out) (./Methods_Guide.out)
 \@outlinefile=\write4
 \openout4 = `Methods_Guide.out'.
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-57.
+56.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-57.
+56.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-157.
+156.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-157.
+156.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 157.
+(Font)              <12> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 157.
+(Font)              <8> on input line 156.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 157.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 157
+(Font)              <6> on input line 156.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 156
 .
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 157
+LaTeX Font Info:    Trying to load font information for U+msb on input line 156
 .
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -530,7 +530,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout7 = `Methods_Guide.lot'.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-65.
+64.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
@@ -539,144 +539,144 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 p}] [2] [3]
 
 LaTeX Warning: Reference `calibration-training' on page 4 undefined on input li
-ne 376.
+ne 375.
 
-<Fig_Diagram_Shepherd.png, id=76, 244.9953pt x 201.8742pt>
+<Fig_Diagram_Shepherd.png, id=75, 244.9953pt x 201.8742pt>
 File: Fig_Diagram_Shepherd.png Graphic file (type png)
 <use Fig_Diagram_Shepherd.png>
-Package pdftex.def Info: Fig_Diagram_Shepherd.png  used on input line 393.
+Package pdftex.def Info: Fig_Diagram_Shepherd.png  used on input line 392.
 (pdftex.def)             Requested size: 245.00215pt x 201.87985pt.
 [4] [5 <./Fig_Diagram_Shepherd.png>] [6] [7]
-<Fig_Elicit_Proc.png, id=105, 332.442pt x 244.9953pt>
+<Fig_Elicit_Proc.png, id=104, 332.442pt x 244.9953pt>
 File: Fig_Elicit_Proc.png Graphic file (type png)
 <use Fig_Elicit_Proc.png>
-Package pdftex.def Info: Fig_Elicit_Proc.png  used on input line 620.
+Package pdftex.def Info: Fig_Elicit_Proc.png  used on input line 619.
 (pdftex.def)             Requested size: 332.44118pt x 244.99469pt.
 
 LaTeX Warning: Reference `multivariate-analysis' on page 8 undefined on input l
-ine 646.
+ine 645.
 
 [8 <./Fig_Elicit_Proc.png>]
 
 LaTeX Warning: Reference `bayesian-networks' on page 9 undefined on input line 
-718.
+717.
 
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 9 undefined on input line 736.
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 9 undefined on input line 735.
 
 
 [9]
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 742
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 741
 .
 
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 744
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 743
 .
 
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 747
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 10 undefined on input line 746
 .
 
-<Fig_CPT_Sheet.png, id=121, 959.86604pt x 409.40955pt>
+<Fig_CPT_Sheet.png, id=120, 959.86604pt x 409.40955pt>
 File: Fig_CPT_Sheet.png Graphic file (type png)
 <use Fig_CPT_Sheet.png>
-Package pdftex.def Info: Fig_CPT_Sheet.png  used on input line 751.
+Package pdftex.def Info: Fig_CPT_Sheet.png  used on input line 750.
 (pdftex.def)             Requested size: 469.75262pt x 200.36255pt.
 
 LaTeX Warning: Reference `the-decisionsupport-package' on page 10 undefined on 
-input line 766.
+input line 765.
 
 
 LaTeX Warning: Reference `the-agenarisk-package' on page 10 undefined on input 
-line 770.
+line 769.
 
 [10 <./Fig_CPT_Sheet.png>]
-<Fig_UG_BN.png, id=130, 428.802pt x 196.5744pt>
+<Fig_UG_BN.png, id=129, 428.802pt x 196.5744pt>
 File: Fig_UG_BN.png Graphic file (type png)
 <use Fig_UG_BN.png>
-Package pdftex.def Info: Fig_UG_BN.png  used on input line 794.
+Package pdftex.def Info: Fig_UG_BN.png  used on input line 793.
 (pdftex.def)             Requested size: 428.82057pt x 196.5829pt.
 
 LaTeX Warning: Reference `model-quantification' on page 11 undefined on input l
-ine 806.
+ine 805.
 
 
 LaTeX Warning: Reference `generating-a-graphical-model' on page 11 undefined on
- input line 816.
+ input line 815.
 
 [11 <./Fig_UG_BN.png>]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 879.
+LaTeX Warning: Command \textendash invalid in math mode on input line 878.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 907.
+LaTeX Warning: Command \textendash invalid in math mode on input line 906.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 909.
+               Default added (so using `tbp') on input line 908.
 
 
-Overfull \hbox (24.55296pt too wide) in paragraph at lines 913--923
+Overfull \hbox (24.55296pt too wide) in paragraph at lines 912--922
  [][] 
  []
 
 [12]
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 13 undefined on input line 961
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 13 undefined on input line 960
 .
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-69.
+68.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
-LaTeX Warning: Reference `Fig_CPT_Sheet' on page 13 undefined on input line 995
+LaTeX Warning: Reference `Fig_CPT_Sheet' on page 13 undefined on input line 994
 .
 
-<Fig_CPT_inputs.png, id=154, 965.40675pt x 446.3877pt>
+<Fig_CPT_inputs.png, id=153, 965.40675pt x 446.3877pt>
 File: Fig_CPT_inputs.png Graphic file (type png)
 <use Fig_CPT_inputs.png>
-Package pdftex.def Info: Fig_CPT_inputs.png  used on input line 1010.
+Package pdftex.def Info: Fig_CPT_inputs.png  used on input line 1009.
 (pdftex.def)             Requested size: 469.76846pt x 217.21297pt.
 [13] [14 <./Fig_CPT_inputs.png>] [15
 
 ] [16] [17]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1133.
+               Default added (so using `tbp') on input line 1132.
 
 
-Overfull \hbox (63.26262pt too wide) in paragraph at lines 1137--1175
+Overfull \hbox (63.26262pt too wide) in paragraph at lines 1136--1174
  [][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1181.
+               Default added (so using `tbp') on input line 1180.
 
-<Fig_Agena_Interface.jpg, id=182, 1666.225pt x 722.7pt>
+<Fig_Agena_Interface.jpg, id=181, 1666.225pt x 722.7pt>
 File: Fig_Agena_Interface.jpg Graphic file (type jpg)
 <use Fig_Agena_Interface.jpg>
-Package pdftex.def Info: Fig_Agena_Interface.jpg  used on input line 1217.
+Package pdftex.def Info: Fig_Agena_Interface.jpg  used on input line 1216.
 (pdftex.def)             Requested size: 469.74332pt x 203.74408pt.
 
 LaTeX Warning: Reference `r-code-with-resulting-cpt-and-legend-tables' on page 
-18 undefined on input line 1253.
+18 undefined on input line 1252.
 
 [18
 
  <./Fig_Agena_Interface.jpg>] [19]
-<Fig_Agena_Utility.jpg, id=198, 1800.7275pt x 907.39pt>
+<Fig_Agena_Utility.jpg, id=197, 1800.7275pt x 907.39pt>
 File: Fig_Agena_Utility.jpg Graphic file (type jpg)
 <use Fig_Agena_Utility.jpg>
-Package pdftex.def Info: Fig_Agena_Utility.jpg  used on input line 1266.
+Package pdftex.def Info: Fig_Agena_Utility.jpg  used on input line 1265.
 (pdftex.def)             Requested size: 469.7443pt x 236.70503pt.
-<Fig_Agena_VoI.jpg, id=201, 1294.8375pt x 832.10875pt>
+<Fig_Agena_VoI.jpg, id=200, 1294.8375pt x 832.10875pt>
 File: Fig_Agena_VoI.jpg Graphic file (type jpg)
 <use Fig_Agena_VoI.jpg>
-Package pdftex.def Info: Fig_Agena_VoI.jpg  used on input line 1281.
+Package pdftex.def Info: Fig_Agena_VoI.jpg  used on input line 1280.
 (pdftex.def)             Requested size: 469.75679pt x 301.88246pt.
 [20 <./Fig_Agena_Utility.jpg>] [21 <./Fig_Agena_VoI.jpg>] [22] [23] [24] (./Met
 hods_Guide.aux)
@@ -692,7 +692,7 @@ Package rerunfilecheck Info: File `Methods_Guide.out' has not changed.
 Here is how much of TeX's memory you used:
  11799 strings out of 480236
  185156 string characters out of 5894541
- 501320 words of memory out of 5000000
+ 501066 words of memory out of 5000000
  29445 multiletter control sequences out of 15000+600000
  520764 words of font info for 69 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -705,18 +705,17 @@ rs/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Us
 ers/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></U
 sers/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><
 /Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb>
-</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
-></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb
-></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb
-></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb>
-</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb
-></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pf
-b>
-Output written on Methods_Guide.pdf (24 pages, 2111215 bytes).
+</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb>
+</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb>
+</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb>
+</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><
+/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
+</Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
+>
+Output written on Methods_Guide.pdf (24 pages, 2101508 bytes).
 PDF statistics:
- 345 PDF objects out of 1000 (max. 8388607)
- 279 compressed objects within 3 object streams
+ 340 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
  90 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,9 +1,9 @@
 ---
 title: "Decision analysis methods guide"
 author:
-- Eike Luedeling$^1,^2$
+- Eike Luedeling$^1$
 - Cory Whitney$^1$
-- $^1$University of Bonn, Germany; $^2$World Agroforestry Centre, Kenya
+- $^1$University of Bonn, Germany
 csl: academy-of-management-review.csl
 output:
   pdf_document:

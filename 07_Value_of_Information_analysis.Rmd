@@ -1,4 +1,4 @@
-##Value of Information analysis
+## Value of Information analysis
 
 As we said in \autoref{generating-a-graphical-model} it is important for the analyst to gather all the variables that the expert group agrees are logically important to describe the impact pathway of the decision and include them in the model. This should happen for several reasons, the most important of which is that the final development outcomes are generally strongly dependent on variables with high uncertainty. These intangible and uncertain variables often include important factors such as behavioral, institutional and policy factors, and are likely to be brought up by the experts as part of their discussions of impact pathways. Part of the value of the Decision Analysis approach is that it directs attention and performance monitoring to such factors, identified by their high information value.
 

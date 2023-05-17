@@ -1,8 +1,8 @@
-#The decisionSupport package 
+# The decisionSupport package 
 
 The decisionSupport package [@decisionSupport_2017] in the R programming language [@R_2017] performs several useful functions for the development of BNs. One particularly useful tool is the likelihood method for estimating CPTs. The the likelihood method works by defining the likelihood that states of several qualitative variables lead to states of another qualitative one.
 
-##The decisionSupport package
+## The decisionSupport package
 
 The reader may also find it useful to explore the integration of these BN approaches within a Monte Carlo analysis. Monte Carlo is another commonly used Decision Analysis tool. It can be combned with BN. We will not give an exhaustive explaiantion of the implementation of these tool shere but have descibed them in deail in an umber of publications and through the vignette in the [@decisionSupport_2017] in the R programming language [@R_2017]. good implementation of that **RPUBS CITATION**
 

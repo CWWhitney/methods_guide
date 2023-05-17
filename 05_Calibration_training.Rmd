@@ -1,4 +1,4 @@
-##Calibration training
+## Calibration training
 
 The next step of the modeling procedure follows procedures, outlined by @Hubbard_2014, known as ‘calibration training’. Experts are trained, using well-established ‘calibration’ procedures to estimate their state of uncertainty and thereby increase their capacity to provide accurate estimates by reducing errors of judgment. Through the process, experts learn to improve their ability to estimate their own state of uncertainty and thereby reduce errors of judgment, e.g. under-confidence or overconfidence [i.e. give correct estimates 90% of the time when they have 90% confidence, @Hubbard_2014]. As both @Hubbard_2014 and @Ohagan_2006 show, through this training the experts learn to minimize potential biases in probability estimation. 
 

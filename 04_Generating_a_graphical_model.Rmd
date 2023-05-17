@@ -1,4 +1,4 @@
-##Generating a graphical model
+## Generating a graphical model
  
 The next step in the Decision Analysis process is to jointly develop a decision model (\autoref{Fig_Diagram_Shepherd}). In the workshop setting it is important for the analyst to gather all the variables that the expert group agrees are logically important to describe the impact pathway of the decision and include them in the model. This should be done regardless of the ease of measurement of the individual variables. 
 
@@ -6,7 +6,7 @@ Before engaging in this process the overall context for the model (the decision 
 
 @Bolger_2015 and @Bolger_2017 point out the various challenges in handling expert knowledge, which include both poor judgment regarding probability and high levels of variation among experts. These problems occur because experts are not trained to formulate reliable representations of uncertainty, many lack experience with probability and few learn to express their uncertainty as probability distributions. Here we outline several important steps that should be taken to aid in the process of collaboratively building model structures and making variable estimates. These will help to ensure accuracy in the process.
 
-###Colaborative approaches
+### Colaborative approaches
 
 Tools are available to help overcome these problems. According to @Bolger_2015 it is possible to create better conditions for gathering expert knowledge. These include offering experts experiences in making estimates for well-defined targets, offering tools on which to base their estimates, and offering regular and usable feedback about the accuracy of their estimates. @Bolger_2017 experts can be a source of quality data about the future. Ensuring the quality of this data starts by selecting the best experts, training experts in the normative aspects of anticipation and combining judgments from several experts.
 

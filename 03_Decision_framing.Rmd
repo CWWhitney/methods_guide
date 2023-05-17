@@ -1,4 +1,4 @@
-##Decision framing
+## Decision framing
 
 Decision framing is the first part of the decision analysis process, it determines the boundaries of a decision and is the most important aspect of making a good decision. Decision framing starts by identifying both a decision to be modeled and the relevant experts. This is not as simple as it sounds and should be undertaken carefully and with a lot of forethought. Consideration of the criteria which define a decision can help to help add structure to this important step in the process: 
 

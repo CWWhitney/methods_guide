@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.17)  17 MAY 2023 17:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.17)  17 MAY 2023 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,18 +435,18 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 116.
 (/Users/corywhitney/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./index.toc)
+) (./index.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 3.
+)
 \tf@toc=\write4
 \openout4 = `index.toc'.
 
-(./index.lof
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 1.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 1.
-)
+(./index.lof)
 \tf@lof=\write5
 \openout5 = `index.lof'.
 
@@ -460,70 +460,63 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
 
 {/Users/corywhitney/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [2] [3]
-
-LaTeX Warning: Reference `calibration-training' on page 4 undefined on input line 333.
-
-<figs/Fig_Diagram_Shepherd.png, id=51, 244.9953pt x 201.8742pt>
+<figs/Fig_Diagram_Shepherd.png, id=113, 244.9953pt x 201.8742pt>
 File: figs/Fig_Diagram_Shepherd.png Graphic file (type png)
 <use figs/Fig_Diagram_Shepherd.png>
-Package pdftex.def Info: figs/Fig_Diagram_Shepherd.png  used on input line 350.
+Package pdftex.def Info: figs/Fig_Diagram_Shepherd.png  used on input line 353.
 (pdftex.def)             Requested size: 245.00215pt x 201.87985pt.
-[4 <./figs/Fig_Diagram_Shepherd.png>] [5]
+[4] [5 <./figs/Fig_Diagram_Shepherd.png>] [6]
 
-LaTeX Warning: Reference `Fig_UG_BN' on page 6 undefined on input line 489.
+LaTeX Warning: Reference `Fig_UG_BN' on page 7 undefined on input line 496.
 
-<figs/Fig_Elicit_Proc.png, id=65, 332.442pt x 244.9953pt>
+<figs/Fig_Elicit_Proc.png, id=137, 332.442pt x 244.9953pt>
 File: figs/Fig_Elicit_Proc.png Graphic file (type png)
 <use figs/Fig_Elicit_Proc.png>
-Package pdftex.def Info: figs/Fig_Elicit_Proc.png  used on input line 493.
+Package pdftex.def Info: figs/Fig_Elicit_Proc.png  used on input line 500.
 (pdftex.def)             Requested size: 332.44118pt x 244.99469pt.
-[6]
 
-LaTeX Warning: Reference `multivariate-analysis' on page 7 undefined on input line 519.
+LaTeX Warning: Reference `multivariate-analysis' on page 7 undefined on input line 526.
 
-[7 <./figs/Fig_Elicit_Proc.png>]
+[7 <./figs/Fig_Elicit_Proc.png>] [8]
 
-LaTeX Warning: Reference `generating-a-graphical-model' on page 8 undefined on input line 598.
-
-[8]
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 661.
+LaTeX Warning: Command \textendash invalid in math mode on input line 672.
 
 
-LaTeX Warning: Reference `Fig_UG_BN' on page 9 undefined on input line 668.
+LaTeX Warning: Reference `Fig_UG_BN' on page 9 undefined on input line 679.
 
+[9{/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 689.
+LaTeX Warning: Command \textendash invalid in math mode on input line 700.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 691.
+               Default added (so using `tbp') on input line 702.
 
 
-Overfull \hbox (24.55296pt too wide) in paragraph at lines 695--705
+Overfull \hbox (24.55296pt too wide) in paragraph at lines 706--716
  [][] 
  []
 
-[9{/Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] [10] [11] [12] (./index.aux)
+[10] [11] [12] (./index.aux)
 
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: CDF28B3495C9C2AE501C505C18EA5494;181.
+(rerunfilecheck)             Checksum: D8CE9B4A71D3BF089F4F74BC09C3E218;2332.
  ) 
 Here is how much of TeX's memory you used:
- 11298 strings out of 478007
- 177886 string characters out of 5838505
- 1865999 words of memory out of 5000000
- 31209 multiletter control sequences out of 15000+600000
- 563473 words of font info for 72 fonts, out of 8000000 for 9000
+ 11345 strings out of 478007
+ 178790 string characters out of 5838505
+ 1867999 words of memory out of 5000000
+ 31232 multiletter control sequences out of 15000+600000
+ 566471 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 63i,10n,67p,587b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,10n,67p,587b,513s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on index.pdf (12 pages, 389921 bytes).
+Output written on index.pdf (12 pages, 398113 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 61 named destinations out of 1000 (max. 500000)
- 27 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

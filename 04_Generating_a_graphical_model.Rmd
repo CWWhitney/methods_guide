@@ -22,7 +22,7 @@ Here we illustrate some useful approaches for combining experts probability dist
 
 The steps defined above and shown in \autoref{Fig_Elicit_Proc} are designed to help experts interact, brainstorm and help reach common understanding about impact pathways. Through this approach, experts can explore details of the expected impacts, disaggregate the impact pathway into the intermediate steps and identify all the influencing factors that they consider important to the decision (i.e. draw a model of nodes and edges; cf. \autoref{Fig_UG_BN}).
  
-![Process used for eliciting graphical representations of decisions from expert groups to be used in developing a BN\label{Fig_Elicit_Proc}](Fig_Elicit_Proc.png)  
+![Process used for eliciting graphical representations of decisions from expert groups to be used in developing a BN\label{Fig_Elicit_Proc}](figs/Fig_Elicit_Proc.png)  
 
 The steps shown in \autoref{Fig_Elicit_Proc} are repeated until all experts have worked on each question and are satisfied that all specific relationships have been identified. This iterative process of building a model in the workshop is illustrated conceptually in \autoref{Fig_Elicit_Proc}. Participants should be encouraged to discuss any factors they deem important for the decision, in particular the various costs, benefits, and risks associated with interventions, as well as the objectives and concerns of decision-makers and stakeholders.  The model should have the broad aim to describe the effects of agricultural decisions on specific nutrition outputs such as hunger (a.k.a. global energy and macronutrient deficiency). 
 

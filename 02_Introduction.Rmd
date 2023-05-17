@@ -33,7 +33,7 @@ The basic steps in the Decision Analysis process, see \autoref{Fig_Diagram_Sheph
 
 \autoref{Fig_Diagram_Shepherd} shows a technical diagram of the Decision Analysis process adapted from @Shepherd_In_Prep_EF_2017. The process outlined is followed in cooperation with key stakeholders and experts to improve the design of policy and interventions and monitor their impacts. The loop in the top half of the diagram describes the process that evaluates different alternatives in relation to the decision goals, whereas the lower loop uses value of information analysis to determine what should be measured to clarify the decision. There are iterative feedback loops throughout the process.
 
-![Summary of the decision modeling proces; the sequence of activities in the decision modeling approach (adapted from Shepherd et al. in preperation).\label{Fig_Diagram_Shepherd}](Fig_Diagram_Shepherd.png)  
+![Summary of the decision modeling proces; the sequence of activities in the decision modeling approach (adapted from Shepherd et al. in preperation).\label{Fig_Diagram_Shepherd}](figs/Fig_Diagram_Shepherd.png)  
 
 The merits of the application of the Decision Analysis tools for development decisions have been further described in detail. @Luedeling_Solutions_2016 point out that Decision Analysis solves the problem of data gaps, which has often prevented research from comprehensively and holistically forecasting decision impacts. It also allows explicit consideration of risks and variability.
 

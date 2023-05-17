@@ -45,34 +45,34 @@ tinytex::install_tinytex()
 
 
 
-```{r child="Summary.Rmd"}
+```{r child="01_Summary.Rmd"}
 ```
 
 
-```{r child="Introduction.Rmd"}
+```{r child="02_Introduction.Rmd"}
 ```
 
 #Steps in the Decision Analysis process
 
-```{r child = "Decision_framing.Rmd"}
+```{r child = "03_Decision_framing.Rmd"}
 ```
 
-```{r child="Generating_a_graphical_model.Rmd"}
+```{r child="04_Generating_a_graphical_model.Rmd"}
 ```
 
-```{r child = "Calibration_training.Rmd"}
+```{r child = "05_Calibration_training.Rmd"}
 ```
 
-```{r child = "Model_Quantification.Rmd"}
+```{r child = "06_Model_Quantification.Rmd"}
 ```
 
-```{r child = "Value_of_Information_analysis.Rmd"}
+```{r child = "07_Value_of_Information_analysis.Rmd"}
 ```
 
-```{r child = "The_decisionSupport_package.Rmd"}
+```{r child = "08_The_decisionSupport_package.Rmd"}
 ```
 
-```{r child = "Conclusions.rmd"}
+```{r child = "09_Conclusions.rmd"}
 ```
 
 ```{r child="References.Rmd"}

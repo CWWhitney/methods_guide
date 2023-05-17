@@ -1,0 +1,9 @@
+#Conclusions
+
+In this manual we have attempted to outline some tools for the adaptation and application of Bayesian Networks to agriculture for nutrition development contexts. Decision Analysis is an important paradigm for development research. The approach of using BN models promises to be an effective strategy for dealing with complex systems, multiple impact pathways, uncertain and incomplete information, and other current constraints to meaningful quantitative impact projections.
+
+The many factors that determine the nutritional impact of agricultural interventions are interconnected in various ways, and there are often clear causal connections between them. Most traditional research approaches, such as regression analysis, controlled trials etc. fare poorly in complex and multi-factorial situations, and results from modeling exercises that adopt deterministic perspectives on complex systems are often not credible because they rely on a host of simplifying assumptions. However, rational prioritization among ‘agriculture for nutrition’ actions requires an evaluation approach that can accommodate the complex relationships and thereby credibly translate agricultural activities into nutritional outcomes. 
+
+We see the potential for great benefits to arise from an approach such as BNs within the Decision Analysis paradigm. These approaches can integrate existing data with expert opinion and other sources of information. This can be a considerable improvement in development research, especially for considering causal relationships in potential intervention impacts. We hope that this manual will contribute to the wider application of these tools to agriculture for nutrition decisions. 
+
+More information and resources are available through the referenced materials, in the decisionSupport package for R [@decisionSupport_2017] and the AgenaRisk software [@Agena_V7_2016], as well as on the Harvard DataVerse [@Luedeling_Dataverse_2016]. 

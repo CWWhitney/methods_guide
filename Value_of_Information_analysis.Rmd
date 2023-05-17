@@ -1,0 +1,41 @@
+##Value of Information analysis
+
+As we said in \autoref{generating-a-graphical-model} it is important for the analyst to gather all the variables that the expert group agrees are logically important to describe the impact pathway of the decision and include them in the model. This should happen for several reasons, the most important of which is that the final development outcomes are generally strongly dependent on variables with high uncertainty. These intangible and uncertain variables often include important factors such as behavioral, institutional and policy factors, and are likely to be brought up by the experts as part of their discussions of impact pathways. Part of the value of the Decision Analysis approach is that it directs attention and performance monitoring to such factors, identified by their high information value.
+
+When a model has been programmed in the approproate software and no clearly preferable option emerges from teh model results, Value of Information (VoI) analysis is a tool that can be used to reveal what further information is needed to narrow uncertainty and clarify a decision. It is expressed as the amount that a rational decision-maker would be willing to pay for that knowledge before making a decision. VoI is a central concept of Decision Analysis, it is used to guide decisions on the level of complexity to be considered in a decision model and the need for further measurement to clarify decision alternatives. VoI can be estimated by analyzing the uncertainties in all the variables that have a bearing on a decision. According to @Abbas_2015 VoI could also be called the value of clairvoyance. 
+
+VoI analysis can be used to determine whether additional information on certain input variables in the BN model could increase confidence about the emerging decision recommendation. The examples of @Hubbard_2014 show that when value of information analysis is used to prioritize measurements, it is often found that only a few variables may be relevant, and data collection should focus on those that narrow choices the most. Other examples, such as those of @Constan_2016 and @Whitney_2017, illustrate how the results of VoI analysis can be used for prioritizing knowledge gaps that should most urgently be narrowed in order to improve certainty about a decision. @Constan_2016 also show that VoI can help decision makers learn if a decision outcome is dependent on, or independent of any risk factors, thereby helping to focus any necessary follow-up research resources. More follow-up measurements and disaggregation of any identified variables can help inform the design and prioritization of future research and provide guidance about the best pathways for implementing the current decision. 
+
+###Expected Value of Perfect Information
+
+The Expected Value of Perfect Information (EVPI) is one useful VoI tool. It is the difference between the expected value of a decision made with perfect information and the expected value of the decision with current imperfect information [@Hubbard_2014]. The many examples presented by @Hubbard_2014 and those of @Felli_2003 show how EVPI can help decision makers to consider both the probability of changes due to a decision, and the resulting difference in payoff. @Constan_2016 show how EVPI can be calculated for BN models to identify a selected subset of important model variables. To achieve this, utility nodes are used to assign monetary value to model outputs (example shown in \autoref{Table_EVPI_calc}). 
+
+The Expected Monetary Value (EMV) is a key part of the EVPI calculation. It is the weighted average of the payoffs for a decision alternative, where weights are the probabilities of the different states of nature (\autoref{Table_EVPI_calc}). EVPI is the maximum amount that one should be willing to pay for additional information about the decision. $EVPI = EV with PI – max(EMV)$, i.e. it is the expected value for the decision (payoff) if perfect information is available about the states of nature, minus the expected value for the decision if perfect information is not available.
+
+A simple hypothetical example of a Value of Information (VoI) calculation, based on the Ugandan nutrition example, is given in \autoref{Table_EVPI_calc}. This model is shown in \autoref{Fig_UG_BN} and available on the Harvard DataVerse [@Luedeling_Dataverse_2016]. The table is populated with estimated values for different states of the *Diversity of household diets* based on the implementation of Vision 2040. 
+
+\autoref{Table_EVPI_calc} shows the calculation of EVPI in a BN. The main part of the table is populated with a 'utility value' for diverse diets under each of the 'states of nature', e.g. the upper right value of -4 represents the utility value of low household dietary diversity in the scenario where the decision to implement Vision 2040 is not taken. The likelihood of each of the states of *Diversity of household diets* is shown in the row labeled with *Probability*.
+
+In \autoref{Table_EVPI_calc} EMV is calculated for each state of the Vision 2040 decision by adding the utility values after multiplying them by the probability for each state of *Diversity of household diets*. The maximum EMV is the highest of these two (27.7). Expected value with perfect information (EV with PI) is calculated for each column by selecting the highest value for each state of *Diversity of household diets* (29.7). EVPI is calculated using the resulting values $EVPI = EV with PI – max(EMV)$.
+
+\begin{table}[]
+\centering
+\caption{Example table for calculation of the expected value of perfect information (EVPI) for a Bayesian Network model of utility values for value of diverse diets.}
+\label{Table_EVPI_calc}
+\begin{tabular}{lllll}
+\hline
+ & \multicolumn{3}{l}{Diversity of household diets} & \multicolumn{1}{c}{\multirow{2}{*}{Expected Monetary Value (EMV)}} \\ \cline{1-4}
+States & Low & Medium & High & \multicolumn{1}{c}{} \\ \cline{5-5} 
+Vision 2040 implemented & \textbf{-4} & \textbf{42} & 60 & EMV = 0.35(-4)+0.55(42)+0.1(60)=\textbf{27.7} \\
+Vision 2040 not implemented & -11 & 31 & \textbf{80} & EMV = 0.35(-11)+0.55(31)+0.1(80)=\textbf{21.2} \\
+Probability & 0.35 & 0.55 & 0.1 & Maximum EMV = \textbf{27.7} \\
+EV with PI & \multicolumn{3}{c}{0.35(-4)+0.55(42)+0.1(80)=\textbf{29.7}} &  \\
+EVPI & \multicolumn{3}{c}{29.7-27.7=\textbf{2}} &  \\ \hline
+\end{tabular}
+\end{table}
+
+Variables that have large uncertainty and a large potential impact on outcomes will have high information values. Information values also point decision makers to places where they could adjust the intervention design to reduce risks and improve outcomes, and also where to increase model complexity. With the new information, the model can be run again and the process is repeated until decision makers feel confident that they can make a well-informed decision \autoref{Fig_Diagram_Shepherd}. 
+
+Value of information analysis provides an efficient, iterative approach to information collection, as measurements are only made as far as needed and lowest cost options are tried first. As a first step … decomposing model variables into sub-variables that are easier to estimate in an attempt to narrow uncertainty. If there is still residual information value, then the analysts may try further literature review or consulting with more experts to further narrow the uncertainty. 
+
+In this approach analysts only need to design physical measurements or surveys if the other steps are insufficient. Even in the case that more data needs to be gathered, small sample sizes may be sufficient to reduce uncertainty and reveal a clear decision. Value of information analysis also tells decision makers how much they should consider spending on these measurements. From applying probabilistic decision modeling on over 80 diverse problems, @Hubbard_2014 observed that only a few variables typically had high information value in any given decision, and interestingly they were rarely variables receiving current measurement effort.

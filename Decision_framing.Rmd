@@ -1,0 +1,16 @@
+##Decision framing
+
+Decision framing is the first part of the decision analysis process, it determines the boundaries of a decision and is the most important aspect of making a good decision. Decision framing starts by identifying both a decision to be modeled and the relevant experts. This is not as simple as it sounds and should be undertaken carefully and with a lot of forethought. Consideration of the criteria which define a decision can help to help add structure to this important step in the process: 
+
+\begin{itemize}
+  \item it is a choice between two or more alternatives that involves an irrevocable allocation of resources, 
+  \item it involves uncertainty (as we pointed out earlier the analysis would not be necessary if results could be forecast with certainty).
+  \item it involves a decision maker or decision making body (who will allocate resources or act).
+\end{itemize}
+
+As @Shepherd_In_Prep_EF_2017 points out, in order to to achieve clarity in decision making each of the above elements, and the preferences of the decision maker, need to be carefully defined. 
+
+Once the decision has been identified, the decision analysts then identify and convene relevant decision-makers, stakeholders, and any additional experts. We find that around 20 experts makes for a manageable workshop, more can be cumbersome, especially when dealing with model building in plenary. 
+
+It is important to have a number of different types of knowledge holders involved in the development of the impact model. Therefore, expert selection should seek to gather experts with knowledge on as many aspects of the decision as possible. As @Fenton_2012 points out, expert knowledge is often vital in identifying critical, underlying causal factors that affect risks and opportunities that would otherwise have been missed based on available data or statistical models. The experts selected for modeling agriculture for nutrition decisions should represent a mix of knowledge holders such as academic institutions (e.g. nutritionists and agronomists), government institutions, local villages and development organizations [see @Luedeling_Dataverse_2016].
+ 

@@ -1,0 +1,5 @@
+##Model quantification
+
+For final model quantification the analyst converts the conceptual model into a mathematical model, translating stakeholder inputs into equations as accurately as possible. Following @Luedeling_Wajir_2015, all estimates can then be consolidated into one single distribution for each model parameter.
+
+Once completed and verified with the literature and other sources, the BN can be shared with experts again for verifying its logical consistency and receiving final feedback.

@@ -1,0 +1,79 @@
+---
+title: "Decision analysis methods guide"
+author:
+- Eike Luedeling$^1$
+- Cory Whitney$^1$
+- $^1$University of Bonn, Germany
+csl: academy-of-management-review.csl
+output:
+  pdf_document:
+    fig_caption: yes
+    includes:
+      in_header: preamble-latex.tex
+      latex_engine: xelatex
+    number_sections: yes
+subtitle: Agricultural policy for nutrition
+bibliography: bib/Methods_Refs.bib
+---
+
+
+<!-- add    toc: yes to YAML for Table of Contents
+add 
+devtools::install_github("rstudio/bookdown") 
+To run LaTeX
+devtools::install_github('yihui/tinytex')
+tinytex::install_tinytex()
+--> 
+
+<!-- Suggest we target Rural 21 with this manuscript http://www.rural21.com/home/ --> 
+
+\tableofcontents
+\listoffigures
+\listoftables 
+
+**List of abbreviations**
+
+\begin{itemize}
+  \item Applied Information Economics (AIE)
+  \item Conditional Probability Tables (CPTs)
+  \item Confidence Interval (CI)
+  \item Expected Monetary Value (EMV)
+  \item Expected Value or perfect information (EVPI)
+  \item Node Probability Table (NPT)
+  \item Value of Information (VoI)
+\end{itemize}
+
+
+
+```{r child="Summary.Rmd"}
+```
+
+
+```{r child="Introduction.Rmd"}
+```
+
+#Steps in the Decision Analysis process
+
+```{r child = "Decision_framing.Rmd"}
+```
+
+```{r child="Generating_a_graphical_model.Rmd"}
+```
+
+```{r child = "Calibration_training.Rmd"}
+```
+
+```{r child = "Model_Quantification.Rmd"}
+```
+
+```{r child = "Value_of_Information_analysis.Rmd"}
+```
+
+```{r child = "The_decisionSupport_package.Rmd"}
+```
+
+```{r child = "Conclusions.rmd"}
+```
+
+```{r child="References.Rmd"}
+```

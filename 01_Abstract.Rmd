@@ -1,4 +1,4 @@
-# Summary 
+# Abstract 
 
 It is often very difficult to make accurate projections about how interventions will affect the real world and to use such projections to develop effective implementation plans, monitor progress and evaluate project impacts. This is due to a variety of factors including lack of data, complex impact pathways, and risks and uncertainties that are difficult to factor into intervention planning. Scientific approaches to produce reliable impact projections are rarely applied in agricultural development, but Decision Analysis techniques commonly used in other fields have the potential to improve development decisions. This manual outlines a Decision Analysis approach that can help decision-makers efficiently allocate resources for the most effective policy impacts. 
 

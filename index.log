@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.14)  21 AUG 2023 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.14)  21 AUG 2023 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -540,18 +540,18 @@ L3 programming layer <2023-06-30>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `index.out' has not changed.
-(rerunfilecheck)             Checksum: D4956E1C98963DE7E82DC9A7889C8830;2772.
+(rerunfilecheck)             Checksum: B6E02949A4630CD70D5A4299FA6D7480;2777.
  ) 
 Here is how much of TeX's memory you used:
  13190 strings out of 477197
- 208093 string characters out of 5812603
+ 208095 string characters out of 5812603
  1932244 words of memory out of 5000000
  33738 multiletter control sequences out of 15000+600000
  619610 words of font info for 156 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  63i,10n,67p,1002b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/corywhitney/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on index.pdf (11 pages, 394401 bytes).
+Output written on index.pdf (11 pages, 394414 bytes).
 PDF statistics:
  265 PDF objects out of 1000 (max. 8388607)
  225 compressed objects within 3 object streams

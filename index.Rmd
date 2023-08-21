@@ -33,7 +33,7 @@ tinytex::install_tinytex()
 ```{r child="02_Introduction.Rmd"}
 ```
 
-# Process for systeatic support for development decisiobns
+# Process for systematic support for development decisiobns
 
 ```{r child = "03_Decision_framing.Rmd"}
 ```

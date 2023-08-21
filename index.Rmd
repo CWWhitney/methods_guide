@@ -1,5 +1,5 @@
 ---
-title: "Supporting development decisions for sustainable agriculture"
+title: "Supporting agricultural development decisions for improved food security - Methods in supporting decisions under uncertainty"
 author:
 - Cory Whitney$^1$
 - Prajna Kasargodu Anebagilu$^1$
@@ -33,7 +33,7 @@ tinytex::install_tinytex()
 ```{r child="02_Introduction.Rmd"}
 ```
 
-#Steps in the Decision Analysis process
+# Process for systeatic support for development decisiobns
 
 ```{r child = "03_Decision_framing.Rmd"}
 ```
@@ -50,7 +50,12 @@ tinytex::install_tinytex()
 ```{r child = "07_Value_of_Information_analysis.Rmd"}
 ```
 
-```{r child = "08_Conclusions.rmd"}
+# Case studies - supporting development decisions for nutrition
+
+```{r child = "08_Case_Studies.rmd"}
+```
+
+```{r child = "09_Conclusions.rmd"}
 ```
 
 ```{r child="References.Rmd"}

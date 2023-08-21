@@ -1,0 +1,57 @@
+---
+title: "Supporting development decisions for sustainable agriculture"
+author:
+- Cory Whitney$^1$
+- Prajna Kasargodu Anebagilu$^1$
+- Eike Luedeling$^1$
+- $^1$University of Bonn, Germany
+csl: academy-of-management-review.csl
+output:
+  pdf_document:
+    fig_caption: yes
+    includes:
+      in_header: preamble-latex.tex
+      latex_engine: xelatex
+    number_sections: yes
+bibliography: bib/Methods_Refs.bib
+---
+
+
+<!-- add    toc: yes to YAML for Table of Contents
+add 
+devtools::install_github("rstudio/bookdown") 
+To run LaTeX
+devtools::install_github('yihui/tinytex')
+tinytex::install_tinytex()
+--> 
+
+<!-- Suggest we target Agricultural Systems --> 
+
+```{r child="01_Abstract.Rmd"}
+```
+
+```{r child="02_Introduction.Rmd"}
+```
+
+#Steps in the Decision Analysis process
+
+```{r child = "03_Decision_framing.Rmd"}
+```
+
+```{r child="04_Generating_a_graphical_model.Rmd"}
+```
+
+```{r child = "05_Calibration_training.Rmd"}
+```
+
+```{r child = "06_Model_Quantification.Rmd"}
+```
+
+```{r child = "07_Value_of_Information_analysis.Rmd"}
+```
+
+```{r child = "08_Conclusions.rmd"}
+```
+
+```{r child="References.Rmd"}
+```

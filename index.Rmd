@@ -6,13 +6,7 @@ author:
 - Eike Luedeling$^1$
 - $^1$University of Bonn, Germany
 csl: academy-of-management-review.csl
-output:
-  pdf_document:
-    fig_caption: yes
-    includes:
-      in_header: preamble-latex.tex
-      latex_engine: xelatex
-    number_sections: yes
+output: word_document
 bibliography: bib/Methods_Refs.bib
 ---
 
@@ -49,8 +43,6 @@ tinytex::install_tinytex()
 
 ```{r child = "07_Value_of_Information_analysis.Rmd"}
 ```
-
-# Case studies - supporting development decisions for nutrition
 
 ```{r child = "08_Case_Studies.rmd"}
 ```
